@@ -1,0 +1,101 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'DelayCompensatedDOB.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{226.80000687bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.5079365)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{DelayCompensatedDOB.pdf}}%
+    \put(0.69128697,0.13455456){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$K_s$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{DelayCompensatedDOB.pdf}}%
+    \put(0.89261486,0.10481451){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0.88392326,0.17722922){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$-$\end{tabular}}}}%
+    \put(0.78440762,0.15765736){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\theta_s$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{DelayCompensatedDOB.pdf}}%
+    \put(0.69330302,0.21945577){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$C_1(s)$\end{tabular}}}}%
+    \put(0.29485202,0.29206206){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\hat{\tau}_{\delta}$\end{tabular}}}}%
+    \put(0.46303498,0.40656956){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$Q(s)$\end{tabular}}}}%
+    \put(0.79366074,0.40656956){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$Q(s)C_1^{-1}(s)$\end{tabular}}}}%
+    \put(0.62818217,0.43177124){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0.54242541,0.43177124){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$-$\end{tabular}}}}%
+    \put(0.3448117,0.36723254){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$-$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{DelayCompensatedDOB.pdf}}%
+    \put(0.77901875,0.29195769){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{DelayCompensatedDOB.pdf}}%
+    \put(0.57327761,0.2170218){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{DelayCompensatedDOB.pdf}}%
+    \put(0.89083638,0.24300246){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\eta_{m}$\end{tabular}}}}%
+    \put(0.9820398,0.13429961){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\theta_j$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{DelayCompensatedDOB.pdf}}%
+    \put(0.45441844,0.21950386){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$e^{-Ts}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{DelayCompensatedDOB.pdf}}%
+    \put(0.22149113,0.40656951){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$e^{-Ts}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{DelayCompensatedDOB.pdf}}%
+    \put(0.47031676,0.27944605){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\tau_{\delta}$\end{tabular}}}}%
+    \put(0.60574571,0.15765736){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\tau_s$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{DelayCompensatedDOB.pdf}}%
+    \put(0.55826006,0.02267029){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\eta_{s}$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{DelayCompensatedDOB.pdf}}%
+    \put(0.44976813,0.07917364){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{DelayCompensatedDOB.pdf}}%
+    \put(0.98222806,0.04755364){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\tau_s$\end{tabular}}}}%
+    \put(0.26965434,0.09600627){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\hat{\tau}_s$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{DelayCompensatedDOB.pdf}}%
+    \put(0.29312376,0.38208448){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0.29936877,0.43315911){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$+$\end{tabular}}}}%
+    \put(0.32959143,0.25535183){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$-$\end{tabular}}}}%
+    \put(0.25501485,0.24082285){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$+$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{DelayCompensatedDOB.pdf}}%
+    \put(0.04844765,0.21945613){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$\tau^\prime_m$\end{tabular}}}}%
+    \put(0.13622889,0.46675445){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}disturbance observer\end{tabular}}}}%
+    \put(0.4478895,0.30817271){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}actuator\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
