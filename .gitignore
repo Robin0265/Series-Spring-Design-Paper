@@ -26,6 +26,8 @@
 *.stt
 *.xdy
 *.tdo
+*.fls
+*.fdb_latexmk
 
 # Generated files
 *.dvi
