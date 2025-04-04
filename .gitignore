@@ -45,5 +45,8 @@
 # *.tmproj.*
 # *.sublime-workspace
 # *.sublime-project
-vscode/
+.vscode/*
 # idea/
+_markdown_root/*
+*.lua
+*.xdv
