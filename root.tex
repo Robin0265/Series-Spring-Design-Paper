@@ -16,6 +16,7 @@
 \usepackage{nccmath}
 \usepackage{epsfig}
 \usepackage{moreverb,url}
+\usepackage{pgf}
 \usepackage{graphicx}
 %\usepackage[font=footnotesize]{caption}
 %\usepackage[font=footnotesize]{subcaption}
@@ -54,7 +55,9 @@
 \newcommand*{\rf}[1]{}
 
 \usepackage{subfiles} % Best loaded last in the preamble
-% \usepackage[hashEnumerators,smartEllipses]{markdown}
+\usepackage{markdown}
+\usepackage{booktabs}
+\usepackage{tabularx}
 
 % \newcommand*{\TODO}{\textcolor[HTML]{FF0000}{\bf TODO:}}
 % \graphicspath{{figs/}{latex/figs/}}
@@ -103,9 +106,9 @@ Note that keywords are not normally used for peer review papers.
 
 \subfile{sections/methods.tex}
 
-% \section{CONCLUSION}
+\section{CONCLUSION}
 
-    % \markdownInput{./outline/conclusion.md}
+    \markdownInput{./outline/conclusion.md}
 
 % use section* for acknowledgment
 % \section*{Acknowledgment}
